@@ -24,7 +24,7 @@
 
 ## Layout e Deploy da Aplicação
 
-> Link do deploy da aplicação: https://vinir15.github.io./DesafioFlexbox/index.html
+> Link do deploy da aplicação: https://vinir15.github.io/DesafioFlexbox/
 
 ![](./img/print.png)
 
